@@ -1,3 +1,4 @@
 cambio guhub
 actualizacion remote
 Queda queda desde local
+actualizacion remote esta ok
